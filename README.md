@@ -7,7 +7,7 @@
 This python module merges two lists together differently than zip().
 It iterates from 0 to the length of the longer list, adding the value from list1 to merged, then the value from list2 to merged.
 Finally, once the shorter list's values have been exhausted, it adds the remaining values from the longer list to the merged list.
-It then returns the merged list
+It then returns the merged list.
 
 ------
 
@@ -26,6 +26,8 @@ outputs:
 ```python
 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
 ```
+
+
 
 Example 2:
 

@@ -1,7 +1,7 @@
 # listmerge
 ## A simple python module to combine/merge two lists together.
 ##### This is what I pictured python doing in my head when I first encountered the zip() function.
-##### Sadly, this was not how zip() worked.
+##### Thankfully for the world at large, this was not how zip() worked.
 
 ------
 This python module merges two lists together differently than zip().
